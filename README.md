@@ -1,2 +1,2 @@
 # Mini-deck-shuffler
-A basic array deck builder and fisher-yates shuffler built for my junior presentation. 
+A basic array deck builder and fisher-yates shuffler built during lunch break for short demonstration.
